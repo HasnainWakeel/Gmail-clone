@@ -1,0 +1,178 @@
+@media screen and (min-width:375px) and (max-width:424px) {
+    .RES {
+        width: 47px;
+    }
+
+    .Md-arrow {
+        height: 48px;
+    }
+
+    .RES1 {
+        width: 180px;
+    }
+
+    .search {
+        width: 850px;
+        height: 70px;
+        justify-content: space-around;
+    }
+
+    .Search {
+        width: 680px;
+        height: 55px;
+    }
+
+    .left-content {
+        width: 250px;
+    }
+
+    .right-content {
+        width: 240px;
+    }
+
+    .PP {
+        width: 60px;
+    }
+
+    .compose {
+        width: 270px;
+        height: 80px;
+        font-size: 30px;
+    }
+
+    li {
+        font-size: 28px;
+        height: 70px;
+        width: 350px;
+    }
+    li:hover {
+        font-size: 29px;
+    }
+    .label {
+        width: 260px;
+    }
+    
+    .labels {
+        color: rgb(151, 145, 145);
+        font-size: 28px;
+        font-weight: bolder;
+    }
+    .middle {
+        width: 88%;
+        max-width: 88%;
+        height: 1165px;
+        max-height: 1165px;
+    }
+    
+    .middle-nav {
+        height: 75px;
+        border-bottom: 1px rgb(149, 143, 143) solid;
+        /* background-color: aqua; */
+    }
+    
+    .one-50 {
+        font-size: 25px;
+    }
+    
+    .RIGHTCON {
+        width: 20%;
+    }
+    
+
+    .Cats {
+        height: 70px;
+        width: 450px;
+        font-size: 30px;
+    }
+    
+    .cat-txt {
+        color: white;
+        margin-left: 30px
+    }
+    
+    .check {
+        margin-top: 15px;
+        cursor: pointer;
+    }
+    
+    .check1 {
+        cursor: pointer;
+    }
+    
+    .e-mail {
+        display: flex;
+        justify-content: space-between;
+        align-self: center;
+        margin-top: 10px;
+        border-bottom: 1px rgb(109, 106, 106) solid;
+        /* background-color: aquamarine; */
+    }
+    
+    .e-mail:hover {
+        box-shadow: 1px 1px 2px white;
+        cursor: pointer;
+    }
+    
+    .leftE {
+        width: 22%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        font-size: 27px;
+    }
+    
+    .middleE {
+        margin-top: 5px;
+        color: white;
+        font-size: 30px;
+    }
+    
+    .e-txt {
+        color: rgb(116, 112, 112);
+    }
+    
+    .rightE {
+        color: white;
+        margin-right: 10px;
+        font-size: 30px;
+    }
+
+    .eParent{
+        display: block;
+    }
+    .rightE {
+        color: white;
+        margin-right: 10px;
+    }
+    
+    .right {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 80px;
+    }
+    
+    .side {
+        background-color: rgb(149, 143, 143);
+        border-radius: 30px;
+        height: 40px;
+    }
+
+    .res{
+        width: 80px;
+    }
+
+    .res1{
+        width: 60px;
+    }
+
+    .res2{
+        width: 55px;
+        height: 52px;
+    }
+}
+
+
+
+
